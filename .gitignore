@@ -1,0 +1,11 @@
+*.swp
+*.beam
+.DS_Store
+tmp
+tmp-exercises
+bin/configlet
+bin/configlet*
+deps
+_build
+/priv/plts/*.plt
+/priv/plts/*.plt.hash
